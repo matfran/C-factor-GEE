@@ -1,0 +1,1 @@
+The code to generate pixel-based crop cover and management factor (C-factor) predictions using crop map labels and Alpha Earth embeddings. The metod implements a simple random forest upscaling procedure in Google Earth Engine to generate C-factor values up to 10-meter resolution. Results are then downloaded to Google Drive for offline processing.
